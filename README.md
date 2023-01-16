@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Detsen99 Facebook@Naphtali Hogan Twitter@Naphtali Hogan LinkedIn@Naphtali Hogan
+- 👋 Hi, I’m Facebook: @Naphtali Hogan, Twitter: @Naphtali Hogan, LinkedIn: @Naphtali Hogan.
 - 👀 I’m interested in Motorcycles, gaming, and coding.
 - 🌱 I’m currently learning Fullstack Development
 - 💞️ I’m looking to collaborate on nothing yet but am open to offers! :)
